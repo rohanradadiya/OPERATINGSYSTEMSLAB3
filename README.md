@@ -37,9 +37,10 @@ Make sure to have gcc installed
 ## Running the Code:
 1. In command prompt make sure directory is on the specific repository folder
 
-2. Compile the code:  gcc file_name.c -c
+2. Compile the code:  gcc sudokuValidatorReal.c -o OSLAB3
+   ./OSLAB3
 
-3. If the Sudoku solution is valid, it will print "The sudoku solution seems to be valid!!!". Otherwise, it will indicate that the solution is invalid and prompt for correction.
+4. If the Sudoku solution is valid, it will print "The sudoku solution seems to be valid!!!". Otherwise, it will indicate that the solution is invalid and prompt for correction.
 
 ## Contributors
 - Rohan Radadiya (100704614)
